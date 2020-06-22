@@ -1,6 +1,8 @@
 # Hello World for Apache Wicket 6.31.0-SNAPSHOT
 
-This is a simple hello world project for the Wicket-tech. Clone this and do the steps from 1,2,3 and you should see a hello world appear.
+This is a simple hello world project for the Apachet Wicket web application framework. Clone this and do the steps from 1,2,3 and you should see a hello world appear.
+
+Note that this runs on a jetty server instead of a tomcat or other server. IDE best used for this project is Eclipse 2020+.
 
 ## How to use?
 1. Clone this and import import this folder as a Maven project into your Eclipse 2020 IDE
